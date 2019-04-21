@@ -1,0 +1,13 @@
+{
+    "name": "CI-HMVC-Base",
+    "description": "Codeigniter base with modular extension",
+    "authors": [
+        {
+            "name": "Muhammad Dicky Hidayat Latif",
+            "email": "muh.dickyhidayat@gmail.com"
+        }
+    ],
+    "require": {
+        "codeigniter/framework": "^3.1"
+    }
+}
