@@ -12,16 +12,13 @@
 
         /*Web Assets Path*/
         var $_assets_path         = '';
-		var $_components_path     = 'components/';
-        var $_template_assets     = 'templates/';
-        var $_image_assets        = 'web-images/';
 
 		/*Database Config*/
 		var $_hostname            = 'localhost';
 		var $_database_user       = 'root';
 		var $_database_password   = '';
-		var $_database_name       = 'siakad_pt_hmvc';
-		var $_table_prefix        = 'tbl_';
+		var $_database_name       = 'test';
+		var $_table_prefix        = '';
 		var $_dbdriver            = 'mysqli';
 		var $_table_swap_prefix   = '{PRE}';
 
