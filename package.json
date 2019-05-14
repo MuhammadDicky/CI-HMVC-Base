@@ -1,0 +1,21 @@
+{
+  "name": "ci-hmvc-base",
+  "version": "1.0.0",
+  "description": "Codeigniter base with HMVC modular extension",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammaddicky/CI-HMVC-Base.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS3",
+    "Javascript",
+    "PHP",
+    "Codeigniter"
+  ],
+  "author": "Muhammad Dicky Hidayat Latif",
+  "license": "MIT"
+}
